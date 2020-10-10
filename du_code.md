@@ -1,6 +1,5 @@
 # Du code
 
-
 ## Git commands
 
 Undo git init : 
@@ -15,3 +14,4 @@ Set tracking information for a specific branch :
 ## Python 
 
 Update a querystring :
+
